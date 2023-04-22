@@ -1,0 +1,26 @@
+*{
+    box-sizing: border-box;
+    margin: 0;
+}
+
+.container{
+    width: 500px;
+    margin: auto;
+}
+
+.body{
+    margin: 50px;
+    font-style: normal;
+    font-weight: 400;
+}
+
+.inner{
+    padding: 100px;
+}
+
+p{
+    margin-top: 15px;
+    color: crimson;
+    font-size: 18px;
+    line-height: 22px;
+}
